@@ -9,3 +9,6 @@ https://drive.google.com/file/d/1k21n3-9PRh_1Jm-RDAPVgW3gOisUqApP/view?usp=shari
 https://drive.google.com/file/d/1x2HIxOhhhrKohgj2-FOzFWWdFlQxf1Jv/view?usp=sharing
 
 After downloading the models paste it in your current folder.
+
+Also download the 'data.npy' file from the below link -
+https://drive.google.com/file/d/1Hg2VYwUGt2YGJ7-0rgyZu_rNVzWHgF9l/view?usp=sharing
